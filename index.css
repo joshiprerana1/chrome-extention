@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Shadows Into Light', cursive;
+    min-width: 400px;
+    color: black;
+    background: black;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #d90429;
+    margin-bottom: 4px;
+}
+
+button {
+    margin-top: 10px;
+    background: #d90429;
+    color: white;
+    padding: 10px 30px;
+    border: 1px solid #d90429;
+    font-weight: bold;
+    text-shadow: 1px 2px 1px black;
+    
+}
+
+#delete-btn {
+    background: white;
+    color:#d90429;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top:2px;
+}
+
+a {
+    color: #d90429;
+}
+
+
